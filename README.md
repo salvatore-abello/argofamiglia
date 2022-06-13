@@ -16,7 +16,7 @@ You can install this library with:
 `python3 -m pip install -U git+https://github.com/salvatore-abello/ArgoFamigliaAPI.git`
 
 You can also install this from the Python Package Index with:
-`python3 -m pip install argofamiglia` (On Windows)
+`python3 -m pip install argofamiglia`
 
 
 Below is an example of how to print announcements.
