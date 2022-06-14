@@ -7,7 +7,7 @@ You can use this library to automate some actions like:
 
 ## How the idea was born
 The idea was born because the official app doesn't notify you if an announcements arrives, or if you receive a new vote, and also because the app is **REALLY** slow.
-I then implemented this API in a [Discord bot](https://github.com/salvatore-abello/ArgoDiscordBo "Discord bot") that notifies me and my class about new announcements from the school.
+I then implemented this API in a [Discord bot](https://github.com/salvatore-abello/ArgoDiscordBot "Discord bot") that notifies me and my class about new announcements from the school.
 
 I then discovered that there are libraries already developed by others that do the exact same thing. [hearot](https://github.com/hearot/) has developed a much better library than mine, [it's worth checking out](https://github.com/hearot/ArgoScuolaNext). Thanks to him, I improved some things about my library.
 
