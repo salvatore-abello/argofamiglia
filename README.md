@@ -28,7 +28,7 @@ print(session.argoRequest("bachecanuova"))
 ```
 
 ## DISCLAIMER
-Use this library at your own risk, as it violates the terms of the services
+Use this library at your own risk, as it violates the following terms of the services:
 
 ```The authentication token and the restful services invoked through it, can only be used by the "DidUP - Famiglia" application of Argo Software SRL for the provision of its services or by saas suppliers and related applications specifically pre-authorized, in compliance with current legislation in manner of protection of personal data and the measures required by the AgID for the SaaS applications of the PA.```
 
