@@ -47,7 +47,6 @@ class ArgoFamiglia:
         self.connect()
 
     def connect(self):
-        self.online = False
         l_req = requests.get(url=f"{_endpoint}/login",
                              headers={
                                 "x-key-app": _key,
@@ -75,7 +74,6 @@ class ArgoFamiglia:
             self.online = True
             self.informations = self.getData()[0]
 
-        return self.online
 
     def getData(self):
         if not self.online:
