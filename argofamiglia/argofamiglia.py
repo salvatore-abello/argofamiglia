@@ -2,7 +2,6 @@ import datetime
 import requests
 import time
 import re
-import os
 
 """
 modes: all: params: _dc
