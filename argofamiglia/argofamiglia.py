@@ -4,8 +4,6 @@ import time
 import re
 import os
 
-_CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
-
 """
 modes: all: params: _dc
 docenticlasse --> docenti della classe
