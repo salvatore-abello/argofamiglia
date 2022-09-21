@@ -1,4 +1,4 @@
-# Argo Famiglia API
+# Argo Famiglia API (Not working as of September 2022, for now)
 A library created to interface Python with Argo ScuolaNext.
 You can use this library to automate some actions like:
 - Check for new announcements;
