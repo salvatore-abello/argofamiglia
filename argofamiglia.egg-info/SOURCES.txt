@@ -2,8 +2,10 @@ LICENSE
 README.md
 setup.cfg
 setup.py
+argofamiglia/CONSTANTS.py
 argofamiglia/__init__.py
 argofamiglia/argofamiglia.py
+argofamiglia/auth.py
 argofamiglia.egg-info/PKG-INFO
 argofamiglia.egg-info/SOURCES.txt
 argofamiglia.egg-info/dependency_links.txt
