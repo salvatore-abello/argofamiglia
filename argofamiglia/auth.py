@@ -43,7 +43,7 @@ def codeChallengeLogin(school: str, username: str, password: str) -> tuple:
         sha256(
             CODE_VERIFIER.encode()
         ).digest()
-    ).replace(b"+", b"-").replace(b"/", b"_").replace(b"=", b"").decode()
+    ).decode()
 
     params = {
         "redirect_uri": REDIRECT_URI,
