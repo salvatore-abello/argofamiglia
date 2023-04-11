@@ -1,4 +1,4 @@
-# Argo Famiglia API
+# argofamiglia
 An API wrapper created to interface Python with Argo ScuolaNext.
 You can use this library to automate some actions like:
 - Check for new announcements;
